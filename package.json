@@ -1,0 +1,27 @@
+{
+  "name": "claude-monitor",
+  "version": "0.1.0",
+  "description": "Local, read-only, zero-dependency live viewer for Claude Code session transcripts.",
+  "main": "server.js",
+  "bin": {
+    "claude-monitor": "server.js"
+  },
+  "files": [
+    "server.js",
+    "public/"
+  ],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "monitor",
+    "dashboard",
+    "transcripts"
+  ],
+  "license": "MIT"
+}
