@@ -61,3 +61,7 @@ Issues and pull requests are welcome. Keep the project dependency-free and read-
 ## License
 
 [MIT](LICENSE)
+
+Example
+
+<img width="1075" height="825" alt="image" src="https://github.com/user-attachments/assets/8f1e7316-bbff-41eb-b442-e56906c9303f" />
